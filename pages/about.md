@@ -12,4 +12,4 @@ The public expects the same level of service from government that they’d get f
 
 ### Mission
 
-By putting customers at the core of our business, we will give customers a voice at the table, and motivate business lines to\*\* \*\*work together toward common, customer-centric outcomes.
+By putting customers at the core of our business, we will give customers a voice at the table, and motivate business lines to work together toward common, customer-centric outcomes.
