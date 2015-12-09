@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 image: /assets/img/about.jpg
 ---
+## About OCE
 
-## About GSA
+GSA is the first federal agency to hire a Chief Customer Officer, with a mission to transform our organization into a customer-centric powerhouse of service and efficiency, and help program offices deliver an outstanding experience to our employees, partners, and customers.
 
-GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
+The public expects the same level of service from government that they’d get from any private sector organization at scale. Recognizing this, GSA’s Office of Customer Experience is tasked to embed customer-centric thinking into our daily operations and ensure we deliver sound products, as well as great customer experiences. We aim to lead by example, and work with other federal agencies to instill a customer-first mindset across the entire federal government.
 
 ### Mission
 
-The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
-
-### History
-
-GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees
+By putting customers at the core of our business, we will give customers a voice at the table, and motivate business lines to** **work together toward common, customer-centric outcomes.
